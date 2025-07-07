@@ -1,0 +1,18 @@
+#for jupyter notebooks
+jupyter
+ipykernel
+#for transformers
+transformers
+huggingface_hub[hf_xet]
+#from CS331
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+Pillow
+tqdm
+idx2numpy
+torch
+torchvision
+torchsummary
