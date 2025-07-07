@@ -16,3 +16,6 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+#PA5 dataset ignored
+CS331/PA5/SpotifyFeatures.csv
